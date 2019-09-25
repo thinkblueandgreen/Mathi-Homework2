@@ -1,0 +1,66 @@
+body {
+    background-image: url(../assets/images/hotel-wallpaper.png);
+}
+#navtitle {
+    background: #4aaaa5;
+    color: white;
+}
+.nav-link{
+    color:  #777777;
+    border-right: 1px solid  #777777;
+}
+.container{
+    background: white;
+    padding: 50px;
+}
+.Btitle{
+    padding-bottom: 20px;   
+    border-bottom: 1px solid  #777777;
+    background: white;
+    /* font-size: 30px; */
+    color: #4aaaa5;
+    margin-bottom: 20px;
+}
+.card{
+    padding: 20px;
+    background: white;
+}
+
+.card-img-left {    
+    float: left;
+    padding-right: 1em;
+    margin-bottom: 2em;
+}
+.card-body >p{
+    color: #777777;
+}
+.formbody{
+    padding: 20px;
+    background-color: white;
+}
+.btn{
+    background-color: #4aaaa5;
+    border: #4aaaa5;
+}
+h4{
+    background: #4aaaa5;
+}
+.card-title{
+    position: relative;
+    width: 100%;
+    height: 10%;
+    color: #fff;
+    top: 80%;
+}
+footer{
+    text-align: center;
+    background-color: #777777;
+    border-top: 3px solid #4aaaa5;
+    height: 40px;
+    width: 100%;
+    position: fixed !important;
+    bottom: 0;
+}
+@media only screen and (max-width: 600px) {
+    <ul class="navbar-nav"
+}
